@@ -1,2 +1,3 @@
-# akshitasingh.github.io
-This is Akshita Singh's personal website.
+# About Me
+
+I am a Machine Learning Engineer with over 6 years of experience in the AI/ML space. I have implemented, improved and deployed AI/ML models to solve a wide array of business problems in the technology and healthcare domains. As an ML Engineer within healthcare and biotech, I have improved, and taken into production, multiple language models developed to make predictions ( such as symptoms, disease identification, etc.) on clinical text data (such as doctor’s notes, radiological reports, etc.). During this process, I have learnt how to overcome various model deployment and post-deployment model maintenance related challenges, such as cluster management, data drifts, and model degradation. Before transitioning into ML Engineering in Healthcare, I worked as Data Scientist in the tech space. I have helped achieve marketing goals such as identifying the best marketing campaigns and increasing click through rates for various products within big-tech marketing teams. 

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../gjena.github.io-main/css"
+		},
+		{
+			"path": "../gjena.github.io-main/js"
+		},
+		{
+			"path": "../gjena.github.io-main/icon-fonts"
+		}
+	],
+	"settings": {}
+}
